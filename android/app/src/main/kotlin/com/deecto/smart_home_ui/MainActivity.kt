@@ -1,0 +1,6 @@
+package com.deecto.smart_home_ui
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

@@ -4,7 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Smart Home UI this is template used for smart home ui. This developed as task after seeing Mitch Koko Video on Youtube. https://www.youtube.com/@MitchKoko
+
+Here is video link where you can follow video tutorial
+https://www.youtube.com/watch?v=FMV8pbz0sN8
+
+
+![WhatsApp Image 2022-11-23 at 12 25 25 PM](https://user-images.githubusercontent.com/10486561/203488249-486d4b3b-21c3-4c1b-8263-d9888c58a370.jpeg)
+
 
 A few resources to get you started if this is your first Flutter project:
 
